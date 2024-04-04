@@ -2,7 +2,7 @@
 
 Apoc de Serilog y Mediator en una consola
 
-# Pasos para crear la aplicación
+## Pasos para crear la aplicación
 
 Crear la aplicación
 
